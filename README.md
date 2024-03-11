@@ -1,8 +1,8 @@
-<h1 align="left">Welcome Geeks!</h1>
+<h1 align="left">Hey there! I'm Sagar</h1>
 
 ###
 
-<p align="left">Hey there! I'm Sagar<br><br>Computer Science student with a passion for sports, travel, and photography. Currently exploring the world of tech while pursuing my degree at Lovely Professional University. Eager learner, problem solver, and anime enthusiast.</p>
+<p align="left">Computer Science student with a passion for sports, travel, and photography. Currently exploring the world of tech while pursuing my degree at Lovely Professional University. Eager learner, problem solver, and anime enthusiast.</p>
 
 ###
 
