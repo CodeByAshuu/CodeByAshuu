@@ -43,6 +43,13 @@
   <img src="https://streak-stats.demolab.com?user=CodeByAshuu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+
+
+## <p align="center">⭐ᴠɪꜱɪᴛᴏʀꜱ ᴄᴏᴜɴᴛ⭐</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/%7CodeByAshuu%7D/count.svg"
+    alt="CodeByAshuu :: Visitor's Count" /></p>
+    
 ###
 
 <h2 align="left">Connect on :</h2>
