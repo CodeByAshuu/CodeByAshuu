@@ -48,9 +48,7 @@
 ## <p align="center">⭐ᴠɪꜱɪᴛᴏʀꜱ ᴄᴏᴜɴᴛ⭐</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7CodeByAshuu%7D/count.svg"
-    alt="CodeByAshuu :: Visitor's Count" /></p>
-
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAshuu&layout=compact)
+    alt="CodeByAshuu : Visitor's Count" /></p>
 
     
 ###
