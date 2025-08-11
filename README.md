@@ -48,7 +48,7 @@
 ## <p align="center">⭐ᴠɪꜱɪᴛᴏʀꜱ ᴄᴏᴜɴᴛ⭐</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7CodeByAshuu%7D/count.svg"
-    alt="CodeByAshuu : Visitor's Count" /></p>
+    alt="CodeByAshuu :: Visitor's Count" /></p>
 
     
 ###
