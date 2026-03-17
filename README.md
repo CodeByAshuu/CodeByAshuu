@@ -1,88 +1,71 @@
-<h1 align="left">Hey there! I'm Sagar</h1>
+<h1 align="center">
+<pre>
+Sagar Sahu
+Full-Stack Developer • DevOps • Problem Solver
+</pre>
+</h1>
 
-###
+<!-- <p align="center">
+  <a href="https://sagarsahudev.vercel.app/">portfolio</a>
+</p> -->
 
-<p align="left">Computer Science student with a passion for sports, travel, and photography. Currently exploring the world of tech while pursuing my degree at Lovely Professional University. Eager learner, problem solver, and anime enthusiast.</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" width="900" height="180"/>
+</p>
 
-###
+---
 
-<h2 align="left">Skill Set ;</h2>
+### <code>about_me</code>
 
-###
+<pre>
+I am a Computer Science student at Lovely Professional University, focused on building
+scalable full-stack applications using the MERN stack and exploring DevOps practices.
+I enjoy solving data structures problems, working on real-world projects, and continuously
+improving my development workflow. Beyond tech, I have a strong interest in fitness,
+photography, and sports.
+</pre>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+---
 
-###
+### <code>tech_stack</code>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByAshuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph "  />
-  <img src="https://streak-stats.demolab.com?user=CodeByAshuu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<pre>
+languages   : C++ | Java | Python | JavaScript | TypeScript | PHP
+frontend    : HTML | CSS | React
+backend     : Node.js | Express
+databases   : MongoDB | PostgreSQL | MySQL
+devops      : Docker | Git | GitHub
+</pre>
 
-    
-###
+---
 
-<h2 align="left">Connect on :</h2>
+### <code>stats</code>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAshuu&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=CodeByAshuu&theme=default&hide_border=true" height="150"/>
+</p>
 
-<p align="left">Feel free to connect with me</p>
+---
 
-###
+### <code>contacts</code>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sagarrrr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SagarrSahu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/ashhuu.u/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16771100/sagar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+<table>
+<tr>
+<td width="120">
+  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="90"/>
+</td>
+<td>
 
-###
+<pre>
+portfolio   : <a href="https://sagarsahudev.vercel.app/">sagarsahudev.vercel.app</a>
+leetcode    : <a href="https://leetcode.com/u/codebysagar/">leetcode.com/u/codebysagar</a>
+linkedin    : <a href="https://www.linkedin.com/in/sagarrrr/">linkedin.com/in/sagarrrr</a>
+twitter(x)  : <a href="https://x.com/SagarrSahu">x.com/SagarrSahu</a>
+</pre>
 
-<p align="left">Thanks for stopping by, and I'm excited to connect and collaborate with fellow enthusiasts in this incredible community!</p>
+</td>
+</tr>
+</table>
 
-###
-
-<img src="https://raw.githubusercontent.com/CodeByAshuu/CodeByAshuu/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="200" src="https://tenor.com/sBnH.gif"  />
-
-###
+---
