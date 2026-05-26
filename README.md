@@ -10,7 +10,7 @@ Full-Stack Developer • DevOps • Problem Solver
 </p> -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" width="900" height="180"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="900" height="280"/>
 </p>
 
 ---
